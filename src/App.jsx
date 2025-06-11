@@ -181,11 +181,7 @@ function App() {
         <div className="header">
           <div className="logo">
             <Languages className="logo-icon" />
-            <h1>Universal Translator</h1>
-          </div>
-          <div className="subtitle">
-            <Sparkles size={16} />
-            <span>Powered by AI • Break language barriers instantly</span>
+            <h1>Translator</h1>
           </div>
         </div>
 
